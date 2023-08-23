@@ -1,0 +1,37 @@
+{
+    "layout": {
+        "hspace": "5mm",
+        "vspace": "5mm",
+        "vbackbone": "5mm",
+        "rows": "2",
+        "cols": "7"
+    },
+    "tabs": {
+        "type": "annotation"
+    },
+    "cuts": {
+        "type": "vcuts"
+    },
+    "framing": {
+        "type": "frame",
+        "fillet": "1mm"
+    },
+    "fiducials": {
+        "type": "4fid",
+        "hoffset": "2mm",
+        "voffset": "2mm"
+    },
+    "text": {
+        "type": "simple",
+        "voffset": "1.5mm",
+        "text": "MIKOTO REV 6.3"
+    },
+    "text2": {
+        "type": "simple",
+        "voffset": "3.5mm",
+        "width": "1mm",
+        "height": "1mm",
+        "thickness": "0.2mm",
+        "text": "JLCJLCJLCJLC"
+    }
+}
